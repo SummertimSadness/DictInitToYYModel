@@ -1,0 +1,2 @@
+# DictInitToYYModel
+YYModel映射map自动生成插件
